@@ -1,0 +1,66 @@
+
+Buffer size: 1048576, comm size: 9 after 100 epoch
+Correct results.
+Average baseline wall time:0.009779
+Average implementation wall time for recursive:0.007269
+Average implementation wall time for butterfly:0.012092
+Average implementation wall time for ring:0.006810
+Average implementation wall time for circle:0.010528
+Average implementation wall time for star:0.014567
+Average maxerror with basline for recursive:9.536743e-07
+Average maxerror with basline for butterfly:9.536743e-07
+Average maxerror with basline for ring:1.430511e-06
+Average maxerror with basline for circle:1.430511e-06
+Average maxerror with basline for star:1.430511e-06
+Average implementation wall time for outplace recursive:0.007314
+Average implementation wall time for outplace butterfly:0.015413
+Average implementation wall time for outplace circle:0.017990
+Average implementation wall time for outplace star:0.014068
+Average maxerror with basline for outplace recursive:9.536743e-07
+Average maxerror with basline for outplace butterfly:9.536743e-07
+Average maxerror with basline for outplace circle:1.430511e-06
+Average maxerror with basline for outplace star:1.430511e-06
+
+Buffer size: 4194304, comm size: 9 after 100 epoch
+Correct results.
+Average baseline wall time:0.047660
+Average implementation wall time for recursive:0.035138
+Average implementation wall time for butterfly:0.058261
+Average implementation wall time for ring:0.045084
+Average implementation wall time for circle:0.060339
+Average implementation wall time for star:0.085935
+Average maxerror with basline for recursive:9.536743e-07
+Average maxerror with basline for butterfly:9.536743e-07
+Average maxerror with basline for ring:1.430511e-06
+Average maxerror with basline for circle:1.430511e-06
+Average maxerror with basline for star:1.430511e-06
+Average implementation wall time for outplace recursive:0.040190
+Average implementation wall time for outplace butterfly:0.076803
+Average implementation wall time for outplace circle:0.198340
+Average implementation wall time for outplace star:0.218069
+Average maxerror with basline for outplace recursive:9.536743e-07
+Average maxerror with basline for outplace butterfly:9.536743e-07
+Average maxerror with basline for outplace circle:1.430511e-06
+Average maxerror with basline for outplace star:1.430511e-06
+
+Buffer size: 8388608, comm size: 9 after 30 epoch
+Correct results.
+Average baseline wall time:16.451471
+Average implementation wall time for recursive:0.426432
+Average implementation wall time for butterfly:0.304530
+Average implementation wall time for ring:0.604965
+Average implementation wall time for circle:0.512028
+Average implementation wall time for star:0.681954
+Average maxerror with basline for recursive:9.536743e-07
+Average maxerror with basline for butterfly:9.536743e-07
+Average maxerror with basline for ring:1.430511e-06
+Average maxerror with basline for circle:1.430511e-06
+Average maxerror with basline for star:1.430511e-06
+Average implementation wall time for outplace recursive:5.092406
+Average implementation wall time for outplace butterfly:11.448905
+Average implementation wall time for outplace circle:18.012883
+Average implementation wall time for outplace star:5.644328
+Average maxerror with basline for outplace recursive:9.536743e-07
+Average maxerror with basline for outplace butterfly:9.536743e-07
+Average maxerror with basline for outplace circle:1.430511e-06
+Average maxerror with basline for outplace star:1.430511e-06

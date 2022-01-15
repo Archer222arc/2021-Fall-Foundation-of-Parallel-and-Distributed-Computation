@@ -1,0 +1,106 @@
+\usepackage{amsmath, amsfonts, amsthm}
+
+\usepackage{graphicx, epstopdf}
+\usepackage{color}
+\usepackage{cite}
+\usepackage{indentfirst}
+\usepackage{geometry, graphicx}
+\usepackage[title]{appendix}
+\usepackage{algorithm, algorithmic}
+\usepackage{bm}
+\usepackage[hidelinks]{hyperref}
+\usepackage{multirow}
+\usepackage{ulem}
+\geometry{left = 5em, right = 5em}
+\usepackage{listings}
+\usepackage{xcolor}
+%% notation macro
+\newcommand{\F}{\mathcal F}
+\newcommand{\T}{\mathcal T}
+\newcommand{\I}{\mathcal I}
+\newcommand{\U}{\mathcal U}
+\newcommand{\R}{\mathbb R}
+\renewcommand{\P}{\mathcal P}
+\newcommand{\uP}{ \mathcal \uline P}
+\newcommand{\B}{\mathcal B}
+%\newcommand{\R}{\mathbb R^2}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\C}{\mathbb C}
+\newcommand{\laplacian}{\triangle}
+\newcommand{\grad}{\nabla}
+\renewcommand{\div}{\textrm{div~}}
+
+\newcommand{\diff}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\difff}[3]{\frac{\parial #1^2}{\partial #2 \partial #3}}
+\newcommand{\diFF}[2]{\frac{\partial #1^2}{\partial^2 #2}}
+\newcommand{\diam}{\text{ diam }}
+%% non-noation macro
+\newcommand{\IN}{\text{  in  }}
+\newcommand{\ON}{\text{  on  }}
+\newcommand{\st}{\text{s.t.  }}
+\newcommand{\tbc}{{\color{red}[TBC]}}
+\newcommand\ldq\textquotedblleft
+\newcommand\rdq\textquotedblright{}
+\newcommand\mb\mathbb
+\newcommand\mf\mathbf
+\newcommand\tf\textbf
+
+\newcommand{\return}{\textbf{return~}}
+\DeclareMathOperator{\argmin}{arg~min}
+%% enviorment
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{remark}{Remark}
+
+
+\setlength{\parindent}{1.5em}
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\lstset{ %
+	backgroundcolor=\color{white},      % choose the background color
+	basicstyle=\footnotesize\ttfamily,  % size of fonts used for the code
+	columns=fullflexible,
+	tabsize=4,
+	breaklines=true,               % automatic line breaking only at whitespace
+	captionpos=b,                  % sets the caption-position to bottom
+	commentstyle=\color{green},  % comment style
+	escapeinside={\%*}{*)},        % if you want to add LaTeX within your code
+	keywordstyle=\color{blue},     % keyword style
+	stringstyle=\color{mymauve}\ttfamily,  % string literal style
+	frame=single,
+	rulesepcolor=\color{red!20!green!20!blue!20},
+	% identifierstyle=\color{red},
+	language=matlab,
+	numbers=left,
+}
+
+\makeatletter
+\newenvironment{breakablealgorithm}
+{% \begin{breakablealgorithm}
+		\begin{center}
+			\refstepcounter{algorithm}% New algorithm
+			\hrule height.8pt depth0pt \kern2pt% \@fs@pre for \@fs@ruled
+			\renewcommand{\caption}[2][\relax]{% Make a new \caption
+				{\raggedright\textbf{\ALG@name~\thealgorithm} ##2\par}%
+				\ifx\relax##1\relax % #1 is \relax
+				\addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##2}%
+				\else % #1 is not \relax
+				\addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##1}%
+				\fi
+				\kern2pt\hrule\kern2pt
+			}
+		}{% \end{breakablealgorithm}
+		\kern2pt\hrule\relax% \@fs@post for \@fs@ruled
+	\end{center}
+}
+\makeatother
+
+%\lhead{\textbf {\showtopic} }
+%\chead{} 
+%\rhead{\textbf {\showabs} }
+%\lfoot{} 
+%\cfoot{\thepage}
+%\rfoot{} 
+%\renewcommand{\headrulewidth}{0.4pt} 

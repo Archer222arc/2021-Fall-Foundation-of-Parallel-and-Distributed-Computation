@@ -1,0 +1,49 @@
+Iteration 1, normr/normr0=0.708189, time cost=0.0159724
+Iteration 2, normr/normr0=0.501531, time cost=0.0159751
+Iteration 3, normr/normr0=0.355178, time cost=0.0159595
+Iteration 4, normr/normr0=0.251533, time cost=0.0159671
+Iteration 5, normr/normr0=0.178133, time cost=0.01596
+Iteration 6, normr/normr0=0.126152, time cost=0.015443
+Iteration 7, normr/normr0=0.0893392, time cost=0.014531
+Iteration 8, normr/normr0=0.063269, time cost=0.0145308
+Iteration 9, normr/normr0=0.0448064, time cost=0.0145299
+Iteration 10, normr/normr0=0.0317314, time cost=0.0145257
+Iteration 11, normr/normr0=0.0224718, time cost=0.0145296
+Iteration 12, normr/normr0=0.0159143, time cost=0.0145258
+Iteration 13, normr/normr0=0.0112703, time cost=0.0145141
+Iteration 14, normr/normr0=0.0079815, time cost=0.0144948
+Iteration 15, normr/normr0=0.00565241, time cost=0.0144857
+Iteration 16, normr/normr0=0.00400297, time cost=0.0145015
+Iteration 17, normr/normr0=0.00283486, time cost=0.0143202
+Iteration 18, normr/normr0=0.00200761, time cost=0.0133132
+Iteration 19, normr/normr0=0.00142177, time cost=0.0133099
+Iteration 20, normr/normr0=0.00100688, time cost=0.0133102
+Iteration 21, normr/normr0=0.000713061, time cost=0.0132999
+Iteration 22, normr/normr0=0.000504982, time cost=0.0133024
+Iteration 23, normr/normr0=0.000357622, time cost=0.0133076
+Iteration 24, normr/normr0=0.000253264, time cost=0.0133043
+Iteration 25, normr/normr0=0.000179359, time cost=0.0132704
+Iteration 26, normr/normr0=0.00012702, time cost=0.0132481
+Iteration 27, normr/normr0=8.99539e-05, time cost=0.0132498
+Iteration 28, normr/normr0=6.37043e-05, time cost=0.0132486
+Iteration 29, normr/normr0=4.51147e-05, time cost=0.0132425
+Iteration 30, normr/normr0=3.19497e-05, time cost=0.0128729
+Iteration 31, normr/normr0=2.26264e-05, time cost=0.0125654
+Iteration 32, normr/normr0=1.60238e-05, time cost=0.0125697
+Iteration 33, normr/normr0=1.13478e-05, time cost=0.0125545
+Iteration 34, normr/normr0=8.03641e-06, time cost=0.0126152
+Iteration 35, normr/normr0=5.69129e-06, time cost=0.0126534
+Iteration 36, normr/normr0=4.03051e-06, time cost=0.0126603
+Iteration 37, normr/normr0=2.85436e-06, time cost=0.0126595
+Iteration 38, normr/normr0=2.02143e-06, time cost=0.0126513
+Iteration 39, normr/normr0=1.43155e-06, time cost=0.0126482
+Iteration 40, normr/normr0=1.01381e-06, time cost=0.0126607
+Iteration 41, normr/normr0=7.17967e-07, time cost=0.0126542
+Iteration 42, normr/normr0=5.08456e-07, time cost=0.0089055
+Converged with 41 iterations.
+total time: 0.58908 sec
+kernel time: 0.588204
+total bandwidth: 0.000349636 GB/s
+Final residual norm: 0.00385026
+|r_n|/|r_0| = 5.08456e-07
+relative error: 0.0528158

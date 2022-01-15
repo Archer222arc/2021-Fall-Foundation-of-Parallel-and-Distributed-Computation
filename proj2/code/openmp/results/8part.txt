@@ -1,0 +1,43 @@
+Iteration 0, normr/normr0=1
+Iteration 1, normr/normr0=0.598119
+Iteration 2, normr/normr0=0.362486
+Iteration 3, normr/normr0=0.222866
+Iteration 4, normr/normr0=0.139116
+Iteration 5, normr/normr0=0.0881516
+Iteration 6, normr/normr0=0.0566452
+Iteration 7, normr/normr0=0.0368511
+Iteration 8, normr/normr0=0.024223
+Iteration 9, normr/normr0=0.0160553
+Iteration 10, normr/normr0=0.0107109
+Iteration 11, normr/normr0=0.00718097
+Iteration 12, normr/normr0=0.00483231
+Iteration 13, normr/normr0=0.00326085
+Iteration 14, normr/normr0=0.00220498
+Iteration 15, normr/normr0=0.00149332
+Iteration 16, normr/normr0=0.00101254
+Iteration 17, normr/normr0=0.000687172
+Iteration 18, normr/normr0=0.000466686
+Iteration 19, normr/normr0=0.000317124
+Iteration 20, normr/normr0=0.000215591
+Iteration 21, normr/normr0=0.00014662
+Iteration 22, normr/normr0=9.97447e-05
+Iteration 23, normr/normr0=6.78737e-05
+Iteration 24, normr/normr0=4.6197e-05
+Iteration 25, normr/normr0=3.14498e-05
+Iteration 26, normr/normr0=2.14147e-05
+Iteration 27, normr/normr0=1.4585e-05
+Iteration 28, normr/normr0=9.93611e-06
+Iteration 29, normr/normr0=6.77135e-06
+Iteration 30, normr/normr0=4.61671e-06
+Iteration 31, normr/normr0=3.14964e-06
+Iteration 32, normr/normr0=2.15062e-06
+Iteration 33, normr/normr0=1.47023e-06
+Iteration 34, normr/normr0=1.00677e-06
+Iteration 35, normr/normr0=6.90985e-07
+Converged with 35 iterations.
+time: 7.92098
+Residual norm: 0.00523246
+total bandwidth: 17.7352 GB/s
+Final residual norm: 0.00523246
+|r_n|/|r_0| = 6.90985e-07
+openmp max num threads: 8

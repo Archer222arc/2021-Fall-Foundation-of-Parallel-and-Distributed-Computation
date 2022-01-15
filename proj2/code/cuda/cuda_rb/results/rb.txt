@@ -1,0 +1,43 @@
+15.1469
+Iteration 0, normr/normr0=1Iteration 0, normr/normr0=1, time cost=0.0103182, time ite=0.0103182, time reduce=0
+Iteration 1, normr/normr0=0.855401, time cost=0.0124895, time ite=0.0124681, time reduce=2.1408e-05
+Iteration 2, normr/normr0=0.42901, time cost=0.0124795, time ite=0.0124626, time reduce=1.6864e-05
+Iteration 3, normr/normr0=0.215162, time cost=0.0109651, time ite=0.0109478, time reduce=1.728e-05
+Iteration 4, normr/normr0=0.10791, time cost=0.0110862, time ite=0.0110691, time reduce=1.7088e-05
+Iteration 5, normr/normr0=0.0541204, time cost=0.0110906, time ite=0.0110738, time reduce=1.68e-05
+Iteration 6, normr/normr0=0.027143, time cost=0.0110814, time ite=0.0110648, time reduce=1.6608e-05
+Iteration 7, normr/normr0=0.0136131, time cost=0.0110822, time ite=0.0110651, time reduce=1.7088e-05
+Iteration 8, normr/normr0=0.00682738, time cost=0.0110912, time ite=0.0110746, time reduce=1.6672e-05
+Iteration 9, normr/normr0=0.00342414, time cost=0.0110842, time ite=0.0110676, time reduce=1.6576e-05
+Iteration 10, normr/normr0=0.00171731, time cost=0.011095, time ite=0.0110778, time reduce=1.7216e-05
+Iteration 11, normr/normr0=0.000861286, time cost=0.0110937, time ite=0.0110764, time reduce=1.7248e-05
+Iteration 12, normr/normr0=0.000431962, time cost=0.0110929, time ite=0.0110754, time reduce=1.7504e-05
+Iteration 13, normr/normr0=0.000216642, time cost=0.0110709, time ite=0.0110542, time reduce=1.6704e-05
+Iteration 14, normr/normr0=0.000108653, time cost=0.011076, time ite=0.0110593, time reduce=1.6736e-05
+Iteration 15, normr/normr0=5.44927e-05, time cost=0.0110731, time ite=0.0110569, time reduce=1.6224e-05
+Iteration 16, normr/normr0=2.73298e-05, time cost=0.0110685, time ite=0.0110517, time reduce=1.6832e-05
+Iteration 17, normr/normr0=1.37067e-05, time cost=0.0110775, time ite=0.011061, time reduce=1.648e-05
+Iteration 18, normr/normr0=6.87435e-06, time cost=0.0109666, time ite=0.0109504, time reduce=1.6256e-05
+Iteration 19, normr/normr0=3.4477e-06, time cost=0.0109664, time ite=0.0109494, time reduce=1.6992e-05
+Iteration 20, normr/normr0=1.72913e-06, time cost=0.0109691, time ite=0.010953, time reduce=1.6096e-05
+Iteration 21, normr/normr0=8.67212e-07, time cost=0.010968, time ite=0.0109518, time reduce=1.616e-05
+Iteration 22, normr/normr0=4.34934e-07, time cost=0.0109626, time ite=0.0109463, time reduce=1.632e-05
+Iteration 23, normr/normr0=2.18133e-07, time cost=0.0109716, time ite=0.0109554, time reduce=1.6192e-05
+Iteration 24, normr/normr0=1.094e-07, time cost=0.0109525, time ite=0.0109361, time reduce=1.6416e-05
+Iteration 25, normr/normr0=5.48676e-08, time cost=0.0109683, time ite=0.0109523, time reduce=1.5968e-05
+Iteration 26, normr/normr0=2.75178e-08, time cost=0.0109703, time ite=0.0109534, time reduce=1.6832e-05
+Iteration 27, normr/normr0=1.3801e-08, time cost=0.010968, time ite=0.0109516, time reduce=1.6448e-05
+Iteration 28, normr/normr0=6.92165e-09, time cost=0.0109594, time ite=0.0109432, time reduce=1.6192e-05
+Iteration 29, normr/normr0=3.47142e-09, time cost=0.0109674, time ite=0.0109511, time reduce=1.6352e-05
+Iteration 30, normr/normr0=1.74103e-09, time cost=0.0109761, time ite=0.0109596, time reduce=1.6512e-05
+Iteration 31, normr/normr0=8.73178e-10, time cost=0.0109676, time ite=0.0109512, time reduce=1.6352e-05
+Iteration 32, normr/normr0=4.37926e-10, time cost=0.01097, time ite=0.0109534, time reduce=1.664e-05
+Iteration 33, normr/normr0=2.19633e-10, time cost=0.010963, time ite=0.0109463, time reduce=1.6704e-05
+Iteration 34, normr/normr0=1.10153e-10, time cost=0.00455811
+Converged with 34 iterations.
+total time: 0.37238 sec
+kernel time: 0.371441
+total bandwidth: 0.000446678 GB/s
+Final residual norm: 8.34129e-07
+|r_n|/|r_0| = 1.10153e-10
+relative error: 0.0528163

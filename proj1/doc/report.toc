@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}摘要}{1}{section.1}%
+\contentsline {section}{\numberline {2}算法描述及分析}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Star-Allreduce}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Circle-Allreduce}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Recursive-Allreduce}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Butterfly-Allreduce}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Ring-Allreduce}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}总结}{6}{subsection.2.6}%
+\contentsline {section}{\numberline {3}数值结果及分析}{7}{section.3}%

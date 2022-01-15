@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{seidel1873ueber}
+Philipp~Ludwig Seidel.
+\newblock {\em Ueber ein verfahren, die gleichungen, auf welche die methode der
+  kleinsten quadrate f{\"u}hrt, sowie line{\"a}re gleichungen {\"u}berhaupt,
+  durch successive ann{\"a}herung aufzul{\"o}sen}, volume~11.
+\newblock Verlag d. Akad., 1873.
+
+\bibitem{golub1996matrix}
+Gene~H Golub and Charles~F Van~Loan.
+\newblock Matrix computations. johns hopkins studies in the mathematical
+  sciences, 1996.
+
+\bibitem{iwashita2012algebraic}
+Takeshi Iwashita, Hiroshi Nakashima, and Yasuhito Takahashi.
+\newblock Algebraic block multi-color ordering method for parallel
+  multi-threaded sparse triangular solver in iccg method.
+\newblock In {\em 2012 IEEE 26th International Parallel and Distributed
+  Processing Symposium}, pages 474--483. IEEE, 2012.
+
+\bibitem{liu2016623}
+Yiqun Liu, Chao Yang, Fangfang Liu, Xianyi Zhang, Yutong Lu, Yunfei Du, Canqun
+  Yang, Min Xie, and Xiangke Liao.
+\newblock 623 tflop/s hpcg run on tianhe-2: Leveraging millions of hybrid
+  cores.
+\newblock {\em The International Journal of High Performance Computing
+  Applications}, 30(1):39--54, 2016.
+
+\bibitem{park2014efficient}
+Jongsoo Park, Mikhail Smelyanskiy, Karthikeyan Vaidyanathan, Alexander
+  Heinecke, Dhiraj~D Kalamkar, Xing Liu, Md~Mosotofa~Ali Patwary, Yutong Lu,
+  and Pradeep Dubey.
+\newblock Efficient shared-memory implementation of high-performance conjugate
+  gradient benchmark and its application to unstructured matrices.
+\newblock In {\em SC'14: Proceedings of the International Conference for High
+  Performance Computing, Networking, Storage and Analysis}, pages 945--955.
+  IEEE, 2014.
+
+\bibitem{zhu2021enabling}
+Qianchao Zhu, Hao Luo, Chao Yang, Mingshuo Ding, Wanwang Yin, and Xinhui Yuan.
+\newblock Enabling and scaling the hpcg benchmark on the newest generation
+  sunway supercomputer with 42 million heterogeneous cores.
+\newblock In {\em Proceedings of the International Conference for High
+  Performance Computing, Networking, Storage and Analysis}, pages 1--13, 2021.
+
+\bibitem{CS515}
+Robert~D. Skeel.
+\newblock Lecture notes on relaxation methods, February 2006.
+
+\end{thebibliography}

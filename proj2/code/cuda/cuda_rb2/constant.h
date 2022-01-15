@@ -1,0 +1,24 @@
+#define N 512
+#define MAXITER 100
+#define RTOL 1e-6
+#define PI 3.14159265358979323846
+#define lx 16
+#define ly 1
+#define lz 16
+#define ex lx+2
+#define ey ly+2
+#define ez lz+2
+#define volumn 135796744
+#define ivolumn 512*512*512
+#define NN N*N 
+#define N2N 514*514
+#define N2 514
+#define nx N/(lx * 2)
+#define ny N/ly 
+#define nz N/lz
+#define bxy nx*ny
+#define txy lx*ly
+#define blksize lx*ly*lz
+#define gridsize nx*ny*nz
+#define rsize 512
+#define rstep gridsize/rsize

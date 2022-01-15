@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{cai2021synthesizing}
+Zixian Cai, Zhengyang Liu, Saeed Maleki, Madanlal Musuvathi, Todd Mytkowicz,
+  Jacob Nelson, and Olli Saarikivi.
+\newblock Synthesizing optimal collective algorithms.
+\newblock In {\em Proceedings of the 26th ACM SIGPLAN Symposium on Principles
+  and Practice of Parallel Programming}, pages 62--75, 2021.
+
+\bibitem{gibiansky2017bringing}
+Andrew Gibiansky.
+\newblock Bringing hpc techniques to deep learning.
+\newblock {\em Baidu Research, Tech. Rep.}, 2017.
+
+\bibitem{sergeev2018horovod}
+Alexander Sergeev and Mike Del~Balso.
+\newblock Horovod: fast and easy distributed deep learning in tensorflow.
+\newblock {\em arXiv preprint arXiv:1802.05799}, 2018.
+
+\bibitem{allreduce}
+腾讯机智团队分享--allreduce算法的前世今生.
+\newblock \url{https://zhuanlan.zhihu.com/p/79030485}.
+
+\end{thebibliography}
